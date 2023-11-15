@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/JasonWu2O23/6m-cloud-3.12-continuous-deployment-serverless/issues"
   },
-  "homepage": "https://github.com/JasonWu2O23/6m-cloud-3.12-continuous-deployment-serverless#readme"
+  "homepage": "https://github.com/JasonWu2O23/6m-cloud-3.12-continuous-deployment-serverless#readme",
+  "dependencies": {
+    "serverless": "^3.36.0"
+  },
+  "devDependencies": {
+    "serverless-offline": "^13.2.1"
+  }
 }
