@@ -1,5 +1,5 @@
 service: jinqing-node-app
-frameworkVersion: 3
+frameworkVersion: '3'
 
 provider:
   name: aws
